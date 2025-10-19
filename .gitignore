@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist-packages/
+*.egg
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# 压缩包
+*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 用户配置（保留示例）
+config.json
+
+# 项目特定
+promanager/
+

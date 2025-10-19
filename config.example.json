@@ -1,0 +1,10 @@
+{
+  "ide_paths": {
+    "idea": "D:\\Program Files\\JetBrains\\IntelliJ IDEA\\bin\\idea64.exe",
+    "vscode": "C:\\Program Files\\Microsoft VS Code\\Code.exe",
+    "webstorm": "D:\\Program Files\\JetBrains\\WebStorm\\bin\\webstorm64.exe",
+    "cursor": "cursor"
+  },
+  "default_ide": "idea"
+}
+
